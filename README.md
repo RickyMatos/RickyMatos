@@ -1,7 +1,7 @@
-## Olá, aqui e o Rychards C. Matos, sou programdor em full stack
+## Me especializando em Cybersecurity, Devops e FullStack.
 
 
-📚Estudando Python e JavaScrpit
+📚Estudando Golang,Python e Rust. 
 
 <div>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RickyMatos&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
